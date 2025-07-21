@@ -1,0 +1,7 @@
+name: RegionProtector
+version: 1.0
+main: dev.maxcraft.regionprotector.RegionProtector
+api-version: 1.16
+commands:
+  protect:
+    description: Schützt dein Gebiet
